@@ -1,5 +1,11 @@
 # mdsvex
 
+## 0.13.0
+
+### Minor Changes
+
+- [`79dc539`](https://github.com/pngwn/MDsveX/commit/79dc53933f464c384fbd73bcdf4266e17114ee5b) Thanks [@lucasvienna](https://github.com/lucasvienna)! - feat: add `svelte5` option to enable `<script module>` syntax
+
 ## 0.12.7
 
 ### Patch Changes
